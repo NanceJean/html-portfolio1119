@@ -1,0 +1,68 @@
+h2 {color:rgb(46, 16, 163); font-size: 20px; 
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif, sans-serif; 
+    text-align: center;}
+/*fonts.google.com*/
+
+h1 {text-align: center;}
+
+#centertext {text-align: center;}
+
+#bluevio {color:blueviolet;}
+
+#aqua {color:rgba(36, 23, 216, 0.774);}
+
+#main3 {color:blue}
+
+* {background-color: rgb(39, 130, 204);}
+
+.color-title {color: rgb(84, 27, 182);}
+.color-list {color:darkorange}
+.center-text {text-align: center;}
+
+.box {
+    margin:auto;
+    height: 200px;
+    width: 500px;
+    color:rgb(157, 255, 0);
+    }
+
+div {
+    margin:auto;
+    height: 200px;
+    width: 800px;
+    color:rgb(157, 255, 0);
+    }
+
+        .col1 {
+            width: 25%;
+            position: absolute;}
+        .col2 {
+            width: 25%;
+            position: absolute;}
+            .col3 {
+                width: 25%;
+                position: absolute;}
+
+    
+
+    
+
+#border {
+   /* background-color: khaki; */
+     border: 05px solid rgb(57, 21, 185);
+     margin-left: 30px;
+     padding:20px;
+     align-content: center;
+     text-align: center;
+     border-style: dashed;
+     
+}
+
+.red {
+    display: block;
+    width: 200px;
+    height:200px;
+    background-color: red;
+}
+
+
