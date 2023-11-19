@@ -15,7 +15,7 @@ h1 {text-align: center;}
 
 * {background-color: rgb(39, 130, 204);}
 
-.color-title {color: rgb(84, 27, 182);}
+.color-title {color:crimson;}
 .color-list {color:darkorange}
 .center-text {text-align: center;}
 
@@ -34,14 +34,19 @@ div {
     }
 
         .col1 {
+            background-color: aqua;
             width: 25%;
             position: absolute;}
-        .col2 {
-            width: 25%;
-            position: absolute;}
-            .col3 {
+            .col2 {
                 width: 25%;
+                background-color: blueviolet;
+                left: 30%;
                 position: absolute;}
+        .col3 {
+            width: 25%;
+            background-color: blueviolet;
+            left: 30%;
+            position: absolute;}
 
     
 
